@@ -7,8 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=39FF14&background=00000000&center=true&vCenter=true&width=560&lines=SysAdmin+%7C+DevOps+%7C+Cloud+Architect;Automatizando+infraestructuras+desde+2017;print(NanelOps().solve_problems())+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Made by](https://img.shields.io/badge/Made%20by-Angel%20Millan-39FF14?style=for-the-badge&labelColor=050505)](https://www.pepperinc.net)
-[![Status](https://img.shields.io/badge/Status-Operational-39FF14?style=for-the-badge&labelColor=050505)](#status)
-[![License](https://img.shields.io/badge/License-Todos%20los%20derechos%20reservados-39FF14?style=for-the-badge&labelColor=050505)](#license)
+[![Status](https://img.shields.io/badge/Status-Operational-39FF14?style=for-the-badge&labelColor=050505)](#)
+[![License](https://img.shields.io/badge/License-Todos%20los%20derechos%20reservados-39FF14?style=for-the-badge&labelColor=050505)](#)
 
 <p><i>Estética "Dark Luxury Tech" impulsada por la eficiencia y la automatización.</i></p>
 
@@ -50,7 +50,7 @@ Este repositorio es el código fuente del **portafolio oficial de NanelOps**: un
 ## ✨ Características
 
 | | |
-| --- | --- |
+|---|---|
 | 🌌 **Fondo de partículas** | Canvas animado en JavaScript puro, renderizado en tiempo real detrás de cada sección. |
 | 🪟 **Glassmorphism** | Tarjetas de cristal esmerilado (`backdrop-filter: blur`) con bordes translúcidos y glow verde neón. |
 | 🃏 **Service cards 3D** | 7 tarjetas de servicios con efecto *flip* en `rotateY(180deg)` al hacer hover. |
@@ -84,7 +84,7 @@ Este repositorio es el código fuente del **portafolio oficial de NanelOps**: un
 <div align="center">
 
 | Token | Hex | Uso | |
-| --- | --- | --- | --- |
+|---|---|---|---|
 | `--bg-primary` | `#050505` | Fondo base | ![#050505](https://img.shields.io/badge/-050505?style=flat-square&color=050505) |
 | `--bg-secondary` | `#0A0A0A` | Secciones alternas | ![#0A0A0A](https://img.shields.io/badge/-0A0A0A?style=flat-square&color=0A0A0A) |
 | `--primary` | `#39FF14` | Acento neón / CTA | ![#39FF14](https://img.shields.io/badge/-39FF14?style=flat-square&color=39FF14) |
